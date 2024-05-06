@@ -1,0 +1,10 @@
+C:\Users\Chaklun\Documents\GitHub\Background Remover\bin\Debug\Background Remover.exe.config
+C:\Users\Chaklun\Documents\GitHub\Background Remover\bin\Debug\Background Remover.exe
+C:\Users\Chaklun\Documents\GitHub\Background Remover\bin\Debug\Background Remover.pdb
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background Remover.csproj.AssemblyReference.cache
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background_Remover.Form1.resources
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background_Remover.Properties.Resources.resources
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background Remover.csproj.GenerateResource.cache
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background Remover.csproj.CoreCompileInputs.cache
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background Remover.exe
+C:\Users\Chaklun\Documents\GitHub\Background Remover\obj\Debug\Background Remover.pdb
